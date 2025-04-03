@@ -1,22 +1,24 @@
-# Questão 1062 - Análise de pH
+# Questão 3278 - Bolinhas Coloridas
 
 ## Descrição
-Classifique uma solução química com base no valor de pH.
+Classifique a nota de um aluno em categorias de bolinhas coloridas.
 
 ## Solução em C
 ```c
 #include <stdio.h>
 
 int main() {
-    double ph;
-    scanf("%lf", &ph);
+    double nota;
+    scanf("%lf", &nota);
     
-    if (ph < 7.0) {
-        printf("Acida\n");
-    } else if (ph > 7.0) {
-        printf("Basica\n");
-    } else {
-        printf("Neutra\n");
+    if (nota > 7.0) {
+        printf("bolinha verde\n");
+    } 
+    else if (nota >= 5.0) {
+        printf("bolinha amarela\n");
+    } 
+    else {
+        printf("bolinha vermelha\n");
     }
     
     return 0;
@@ -24,8 +26,11 @@ int main() {
 ```
 
 ## Exemplos de Entrada/Saída
-| pH  | Classificação |
-|-----|---------------|
-| 6.8 | Acida         |
-| 7.0 | Neutra        |
-| 8.2 | Basica        |
+| Nota | Saída             |
+|------|-------------------|
+| 8.5  | bolinha verde     |
+| 6.0  | bolinha amarela   |
+| 4.9  | bolinha vermelha  |
+
+## Observações
+- A nota pode ter valores decimais (por isso uso de `double`)
