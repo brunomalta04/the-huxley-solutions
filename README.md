@@ -12,8 +12,8 @@ graph TD
     F --> G[Abra um Pull Request]
 ```
 
-[![GitHub License](https://img.shields.io/github/license/bruno/the-huxley-solutions?style=flat-square)](LICENSE)
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/bruno/the-huxley-solutions?style=flat-square)](https://github.com/bruno/the-huxley-solutions/commits/main)
+[![GitHub License](https://img.shields.io/github/license/brunomalta04/the-huxley-solutions?style=flat-square)](LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/brunomalta04/the-huxley-solutions?style=flat-square)](https://github.com/brunomalta04/the-huxley-solutions/commits/main)
 
 Repositório organizado de soluções para problemas do [The Huxley](https://www.thehuxley.com/).
 
