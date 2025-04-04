@@ -1,5 +1,17 @@
 # The Huxley Solutions 🧠💻
 
+## 🔄 Fluxo de Contribuição
+
+```mermaid
+graph TD
+    A[Clone o repositório] --> B[Crie uma branch]
+    B --> C[Adicione sua solução]
+    C --> D[Teste localmente]
+    D --> E[Commit com mensagem descritiva]
+    E --> F[Push para o GitHub]
+    F --> G[Abra um Pull Request]
+```
+
 [![GitHub License](https://img.shields.io/github/license/bruno/the-huxley-solutions?style=flat-square)](LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/bruno/the-huxley-solutions?style=flat-square)](https://github.com/bruno/the-huxley-solutions/commits/main)
 
