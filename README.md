@@ -1,20 +1,29 @@
-# The Huxley Solutions 
- 
-Este reposit¢rio contÇm as soluá‰es para problemas do [The Huxley](https://www.thehuxley.com/), uma plataforma de programaá∆o que oferece desafios de algoritmos e estrutura de dados. O objetivo deste reposit¢rio Ç organizar e compartilhar as soluá‰es encontradas para os desafios propostos. 
- 
-## Estrutura do Reposit¢rio 
- 
-O reposit¢rio est† organizado da seguinte maneira: 
- 
-- **`decisao/`**: ContÇm as soluá‰es para problemas que envolvem decis‰es e estruturas condicionais, como `if`, `else`, `switch` e outros tipos de controle de fluxo. 
-- **`repeticao/`**: ContÇm as soluá‰es para problemas que envolvem repetiá‰es e laáos de repetiá∆o, como `for`, `while` e `do-while`. Este diret¢rio inclui problemas em que a iteraá∆o Ç um ponto-chave para a soluá∆o. 
-- **`outras/`**: ContÇm problemas que n∆o se encaixam diretamente nas categorias de decis∆o ou repetiá∆o, ou que exigem abordagens mais avanáadas e tÇcnicas diferentes. Exemplos incluem manipulaá∆o de strings, recurs∆o, e estrutura de dados. 
- 
-## Como Usar 
- 
-1. **Clone o reposit¢rio**: 
-Para clonar este reposit¢rio, basta rodar o seguinte comando no terminal: 
- 
-```bash 
-git clone https://github.com/seu-usuario/the-huxley-solutions.git 
-``` 
+# The Huxley Solutions üß†üíª
+
+[![GitHub License](https://img.shields.io/github/license/bruno/the-huxley-solutions?style=flat-square)](LICENSE)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/bruno/the-huxley-solutions?style=flat-square)](https://github.com/bruno/the-huxley-solutions/commits/main)
+
+Reposit√≥rio organizado de solu√ß√µes para problemas do [The Huxley](https://www.thehuxley.com/).
+
+## üìÇ Estrutura Completa
+
+| Diret√≥rio       | Descri√ß√£o                                                                 | Exemplo T√≠pico                  |
+|-----------------|---------------------------------------------------------------------------|----------------------------------|
+| `Array/`        | Opera√ß√µes com vetores unidimensionais                                    | Busca, ordena√ß√£o, filtragem     |
+| `Funcao/`       | Problemas resolvidos com fun√ß√µes auxiliares                              | Modulariza√ß√£o de c√≥digo         |
+| `Matriz/`       | Solu√ß√µes envolvendo arrays bidimensionais                                | Opera√ß√µes matriciais            |
+| `Recursao/`     | Implementa√ß√µes usando recurs√£o                                           | Fatorial, Fibonacci, divis√£o-e-conquista |
+| `Decisao/`      | Problemas baseados em estruturas condicionais                            | Classifica√ß√µes, valida√ß√µes      |
+| `Repeticao/`    | Solu√ß√µes com estruturas de repeti√ß√£o                                     | S√©ries num√©ricas, padr√µes       |
+| `Outras/`       | Casos especiais e problemas miscel√¢neos                                  | Convers√£o de bases, jogos       |
+
+### Organiza√ß√£o dos Arquivos
+Cada solu√ß√£o inclui:
+- C√≥digo comentado
+- Exemplos de entrada/sa√≠da
+
+## üöÄ Como Usar
+
+1. Clone o reposit√≥rio:
+```bash
+git clone https://github.com/bruno/the-huxley-solutions.git
