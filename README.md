@@ -1,5 +1,7 @@
 # The Huxley Solutions 🧠💻
 
+Repositório organizado de soluções para problemas do [The Huxley](https://www.thehuxley.com/).
+
 ## 🔄 Fluxo de Contribuição
 
 ```mermaid
@@ -11,11 +13,12 @@ graph TD
     E --> F[Push para o GitHub]
     F --> G[Abra um Pull Request]
 ```
-
 [![GitHub License](https://img.shields.io/github/license/brunomalta04/the-huxley-solutions?style=flat-square)](LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/brunomalta04/the-huxley-solutions?style=flat-square)](https://github.com/brunomalta04/the-huxley-solutions/commits/main)
 
-Repositório organizado de soluções para problemas do [The Huxley](https://www.thehuxley.com/).
+[![Progresso](https://img.shields.io/badge/Questões_Resolvidas-38/50-blueviolet)](https://github.com/brunomalta04/the-huxley-solutions)
+[![Complexidade](https://img.shields.io/badge/Dificuldade-Média-important)](https://github.com/brunomalta04/the-huxley-solutions)
+[![Última Atualização](https://img.shields.io/github/last-commit/brunomalta04/the-huxley-solutions?color=success)](https://github.com/brunomalta04/the-huxley-solutions/commits)
 
 ## 📂 Estrutura Completa
 
@@ -29,13 +32,21 @@ Repositório organizado de soluções para problemas do [The Huxley](https://www
 | `Repeticao/`    | Soluções com estruturas de repetição                                     | Séries numéricas, padrões       |
 | `Outras/`       | Casos especiais e problemas miscelâneos                                  | Conversão de bases, jogos       |
 
+
 ### Organização dos Arquivos
 Cada solução inclui:
 - Código comentado
 - Exemplos de entrada/saída
 
-## 🚀 Como Usar
+## 📊 Estatísticas do Código
+![Linguagens](https://img.shields.io/badge/C-92%25-blue)
+![Testes](https://img.shields.io/badge/Testes-78%25_passando-green)
+![Linhas de Código](https://img.shields.io/badge/Linhas-1.2k_~-yellow)
 
-1. Clone o repositório:
+## 📥 Como Contribuir
+1. Escolha uma questão não resolvida do [quadro de issues](https://github.com/bruno/the-huxley-solutions/issues)
+2. Siga o [guia de estilo](docs/STYLE_GUIDE.md)
+3. Adicione testes conforme [exemplos](utils/exemplos/)
+4. Clone o repositório:
 ```bash
-git clone https://github.com/bruno/the-huxley-solutions.git
+git clone https://github.com/brunomalta04/the-huxley-solutions.git
