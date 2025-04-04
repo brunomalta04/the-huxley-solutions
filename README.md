@@ -44,9 +44,6 @@ Cada solução inclui:
 ![Linhas de Código](https://img.shields.io/badge/Linhas-1.2k_~-yellow)
 
 ## 📥 Como Contribuir
-1. Escolha uma questão não resolvida do [quadro de issues](https://github.com/bruno/the-huxley-solutions/issues)
-2. Siga o [guia de estilo](docs/STYLE_GUIDE.md)
-3. Adicione testes conforme [exemplos](utils/exemplos/)
-4. Clone o repositório:
+1. Clone o repositório:
 ```bash
 git clone https://github.com/brunomalta04/the-huxley-solutions.git
