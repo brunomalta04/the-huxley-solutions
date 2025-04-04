@@ -1,0 +1,1 @@
+## Guia de Estilo\n- Nomes em snake_case\n- Comentários em PT-BR\n- Complexidade O(n) no cabeçalho
