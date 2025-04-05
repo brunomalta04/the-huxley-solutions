@@ -16,7 +16,7 @@ graph TD
 [![GitHub License](https://img.shields.io/github/license/brunomalta04/the-huxley-solutions?style=flat-square)](LICENSE)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/brunomalta04/the-huxley-solutions?style=flat-square)](https://github.com/brunomalta04/the-huxley-solutions/commits/main)
 
-[![Progresso](https://img.shields.io/badge/Questões_Resolvidas-38/50-blueviolet)](https://github.com/brunomalta04/the-huxley-solutions)
+[![Progresso](https://img.shields.io/badge/Questões_Resolvidas-29/47-blueviolet)](https://github.com/brunomalta04/the-huxley-solutions)
 [![Complexidade](https://img.shields.io/badge/Dificuldade-Média-important)](https://github.com/brunomalta04/the-huxley-solutions)
 [![Última Atualização](https://img.shields.io/github/last-commit/brunomalta04/the-huxley-solutions?color=success)](https://github.com/brunomalta04/the-huxley-solutions/commits)
 
